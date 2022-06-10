@@ -1,1 +1,1 @@
-# Curso-POO-JavaScript
+# Curso-Intermedio-POO-JavaScript
